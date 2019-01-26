@@ -1,4 +1,4 @@
-# My Practice History to Competitive Programming problems
+# My Practice History of Competitive Programming 
 This is a repo to put codes both for practice and at contests. 
 Recording practice history is the main purpose of this. 
 
