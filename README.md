@@ -3,7 +3,7 @@ This is a repo to put codes both for practice and at contests.
 Recording practice history is the main purpose of this. 
 
 This includes:
-* [Atcoder](https://atcoder.jp/)
+* [Atcoder](https://atcoder.jp/)([Mypage](https://atcoder.jp/users/szkieletor))
 * [Aizu Online Judge](http://judge.u-aizu.ac.jp/)
 
 # Types of contests
