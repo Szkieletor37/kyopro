@@ -2,9 +2,6 @@
 using namespace std;
 using pii=pair<int,int>;
 
-#define fi first
-#define se second
-#define pb push_back
 #define rep(i,n) for(int i=0; i<(int)(n); i++)
 #define H_MAX 50
 #define W_MAX 50
