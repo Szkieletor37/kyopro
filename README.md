@@ -10,6 +10,3 @@ This includes:
 * ABC: Atcoder Beginners Contests
 * ARC: Atcoder Regular Contests
 * AGC: Atcoder Grand Contests
-
-# Current Rating
-* Atcoder: 778(Brown)
